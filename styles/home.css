@@ -1,0 +1,40 @@
+img{
+    width: 45%;
+    margin: auto;
+    height: auto;
+}
+.tagname{
+    color: white;
+    
+}
+#leftimg{
+	width: 25%;
+}
+.headtag
+{
+    color: white;
+    font-size: 24px;
+}
+.head_body{
+    margin-left: 5%;
+}
+.navbar-text{
+    font-size: 22px;
+    color: white !important;
+}
+
+.hodimg{
+    width: 33%;
+}
+
+.main-container{
+    display: flex;
+    justify-content: center;
+    margin: 16% 0% 0% 20%;
+}
+
+.homebtn{
+    display: flex;
+    justify-content: center;
+    margin: 7%;
+}

@@ -1,0 +1,24 @@
+img{
+    width: 45%;
+    margin: auto;
+    height: auto;
+}
+.tagname{
+    color: white;
+    
+}
+#leftimg{
+	width: 25%;
+}
+.headtag
+{
+    color: white;
+    font-size: 24px;
+}
+.head_body{
+    margin-left: 10%;
+}
+.navbar-text{
+    font-size: 21px;
+    color: white !important;
+}

@@ -1,0 +1,31 @@
+
+
+.lightbox {
+    background-color: rgb(250, 248, 248);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    z-index :1;
+   
+    transform: translate(-50%, -50%);
+}
+
+.main-hod {
+    position: fixed;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.design {
+    border: 1px solid #004085;
+    background-color: white;
+    margin: auto;
+    box-shadow: 0 0 0.1px 1px #21008559;
+    padding: 8px 9px 8px 13px;
+    margin-top: 14%;
+    width: 40%;
+}
